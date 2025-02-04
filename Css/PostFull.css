@@ -1,0 +1,98 @@
+.post-full {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.post-full img {
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+}
+
+.post-full .post-content {
+    margin-top: 20px;
+}
+
+.post-full h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.post-full .author img {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin-right: 15px;
+}
+
+.post-full .author-name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.post-full .date {
+    font-size: 14px;
+    color: #aaa;
+}
+
+.back-link {
+    text-decoration: none;
+    background-color: #A0674C;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.back-link:hover {
+    background-color: #9c704f;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.author-title {
+    font-style: italic;
+    color: #555; 
+}
+
+.author-company {
+    color: #777;
+}
+
+.author-bio {
+    margin: 0.5rem 0; 
+    font-size: 0.9rem; 
+}
+
+.social-sharing {
+    margin: 2rem 0; 
+}
+
+.social-sharing h4 {
+    font-size: 1.2rem;
+}
+
+.social-link {
+    display: inline-block;
+    margin-right: 1rem; 
+    text-decoration: none;
+    color: #9c704f; 
+}
+
+.social-link:hover {
+    text-decoration: underline; 
+}
+
+.socials {
+    display: grid;
+    display: flex;
+    margin-top: 0.5rem; 
+}
