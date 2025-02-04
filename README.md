@@ -13,7 +13,7 @@ Welcome to Personal Blog, a personal blogging platform designed to share insight
 
 ## Project Overview
 
-PersonalBlog is a web-based platform that allows users to create, edit, and publish blog posts. It features a user-friendly interface, responsive design, and supports multimedia content. The project is structured with a focus on modularity and scalability, ensuring ease of maintenance and future enhancements.
+PersonalBlog is a web-based platform that allows users to create, edit, and publish blog posts. It features a user-friendly interface, and responsive design, and supports multimedia content. The project is structured with a focus on modularity and scalability, ensuring ease of maintenance and future enhancements.
 
 ## Features
 
@@ -51,5 +51,3 @@ No additional installations are required as the project is built using standard 
 - Home Page: Displays a list of recent blog posts with excerpts and links to full articles.
 - Individual Post Pages: Provide detailed content for each blog entry.
 - Contact Form: Located at the bottom of the home page, allowing readers to send messages directly.
-
-- Sana Saleh
