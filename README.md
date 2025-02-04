@@ -1,6 +1,6 @@
-# PersonalBlog
-
-Welcome to PersonalBlog, a personal blogging platform designed to share insights, stories, and experiences with the world.
+# Personal Blog Website
+ 
+Welcome to Personal Blog, a personal blogging platform designed to share insights, stories, and experiences with the world.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ PersonalBlog is a web-based platform that allows users to create, edit, and publ
 - **Dynamic Content Management:** Allows for easy creation and management of blog posts.
 - **Search Functionality:** Enables users to search for specific posts.
 - **Contact Form:** Provides a way for readers to get in touch with the author.
-- **Social Media Integration:** Facilitates sharing of posts on various social media platforms.
+- **Social Media Integration:** Facilitates sharing posts on various social media platforms.
 
 ## Technologies Used
 
@@ -52,4 +52,4 @@ No additional installations are required as the project is built using standard 
 - Individual Post Pages: Provide detailed content for each blog entry.
 - Contact Form: Located at the bottom of the home page, allowing readers to send messages directly.
 
-## Sana Saleh
+- Sana Saleh
